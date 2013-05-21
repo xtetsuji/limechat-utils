@@ -5,7 +5,7 @@ This repository contains LimeChat for *** utilities.
 このリポジトリは各種プラットフォームのLimeChatユーティリティを
 格納していく予定のリポジトリです。
 
-##Windows
+##For Windows
 
 LimeChat for Windows is extended by specific JScript.
 This repositry maybe contains someone.
@@ -14,7 +14,7 @@ LimeChat for Windows は所定のJScript (Microsoftの{ECMA,Java}Script)
 によって機能拡張ができます。このリポジトリにはそのようなものが
 入っていることでしょう。
 
-##Mac
+##For Mac
 
 LimeChat for Mac is extended looking with theme.
 This repository will contains someone as future.
@@ -32,4 +32,5 @@ MITライセンスとします。
 
 ##AUTHOR
 
-OGATA Tetsuji <tetsuji.ogata {at} gmail.com>
+OGATA Tetsuji \<tetsuji.ogata {at} gmail.com\>
+aka [@xtetsuji](https://twitter.com/xtetsuji)
