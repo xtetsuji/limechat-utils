@@ -22,6 +22,8 @@ This repository will contains someone as future.
 LimeChat for Mac はテーマで見た目を拡張することができます。
 現在はまだですが、将来的にはそのようなテーマを入れていくことも予定しています。
 
+テーマは [xtetsuji/other-config の mac-limechat 以下](https://github.com/xtetsuji/other-config/tree/master/mac-limechat) に入っています。
+
 ##LICENSE
 
 This repositories scripts license is MIT lincense
